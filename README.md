@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gianmarco and I'm a AI developer/Full Stack Web Developer from rome</h2>
+<h2 align="left">Hi 👋! My name is Gianmarco and I'm a AI developer/Full Stack Web Developer from Rome</h2>
 
 ###
 
