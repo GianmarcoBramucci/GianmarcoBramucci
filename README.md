@@ -5,9 +5,6 @@
 <div align="center">
   <table>
 	<tr>
-		<b>My GitHub stats</b>
-	</tr>
-	<tr>
 		<td>
 			<a href="https://github.com/GianmarcoBramucci">
 				<img src="https://awesome-github-stats.azurewebsites.net/user-stats/GianmarcoBramucci?cardType=level&theme=tokyonight" width="397" height="200">
