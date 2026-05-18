@@ -15,13 +15,12 @@ jobs:
       contents: write
     steps:
       - name: Generate github-contribution-grid-snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: GianmarcoBramucci
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd7ff,#218bff,#54aeff,#0969da,#0550ae
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
