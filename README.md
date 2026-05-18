@@ -133,16 +133,19 @@ const gianmarco = {
 
 <div align="center">
 
-<a href="https://github.com/GianmarcoBramucci">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GianmarcoBramucci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&include_all_commits=true&count_private=true&cache_seconds=1800" alt="stats"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=GianmarcoBramucci&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE" alt="streak"/>
-</a>
+<!-- Stats + Streak: stats are self-hosted (generated daily via Actions) so they don't depend on Vercel uptime -->
+<img height="195" src="https://raw.githubusercontent.com/GianmarcoBramucci/GianmarcoBramucci/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats"/>
+<img height="195" src="https://streak-stats.demolab.com?user=GianmarcoBramucci&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE" alt="streak"/>
 
 <br/><br/>
 
-<a href="https://github.com/GianmarcoBramucci">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianmarcoBramucci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=10&hide=html,css&cache_seconds=1800" alt="top-langs"/>
-</a>
+<img height="195" src="https://raw.githubusercontent.com/GianmarcoBramucci/GianmarcoBramucci/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos-per-language"/>
+<img height="195" src="https://raw.githubusercontent.com/GianmarcoBramucci/GianmarcoBramucci/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most-commit-language"/>
+
+<br/><br/>
+
+<img height="195" src="https://raw.githubusercontent.com/GianmarcoBramucci/GianmarcoBramucci/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile-details"/>
+<img height="195" src="https://raw.githubusercontent.com/GianmarcoBramucci/GianmarcoBramucci/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive-time"/>
 
 </div>
 
